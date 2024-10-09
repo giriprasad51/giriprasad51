@@ -1,7 +1,7 @@
 # Pusunuru Giri Prasad
 
 ## 🎓 About Me
-I'm Giri Prasad, an aspiring researcher passionate about underrated AI products/domains. I have pursued an Bachelor of Technology in CSE at the National Institute of Technology, Patna with 7.45CGPA.
+I'm Giri Prasad, an aspiring researcher passionate about underrated AI products/domains. I have pursued an Bachelor of Technology in CSE at the National Institute of Technology, Patna 2023 with 7.45CGPA.
 
 
 
@@ -45,7 +45,7 @@ I'm Giri Prasad, an aspiring researcher passionate about underrated AI products/
 
 
 ## 🌱 Interests
-- Machine learning, Deep learning, CV, NLP, Smell AI.
+- Machine learning, Deep learning, CV, NLP.
 
 
 ## 📬 **Reach Out to Me**
